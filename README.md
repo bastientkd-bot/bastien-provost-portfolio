@@ -1,4 +1,4 @@
-# Data-Analyst-Portfolio-Bastien
+# bastien-provost-portfolio
 Mon apprentissage autodidacte en data analysis – focus crypto &amp; économie
 
 Bonjour ! Je suis Bastien, 34 ans, en reconversion vers l'analyse de données avec un focus sur l'économie, l'investissement et la crypto (passion depuis 5 ans).  
