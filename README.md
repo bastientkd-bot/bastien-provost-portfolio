@@ -25,6 +25,32 @@ Ces années m'ont appris à comprendre rapidement un besoin, identifier un probl
 
 ---
 
+## Ce que j'apporte
+
+Au-delà des outils et des compétences techniques, mon expérience m'a permis de développer des qualités que je considère essentielles dans la réussite d'un projet.
+
+### Comprendre les besoins réels
+
+Après plusieurs années en support informatique et accompagnement utilisateur, j'ai appris à identifier les véritables problématiques derrière une demande. Mon objectif n'est pas uniquement de répondre à une question, mais de comprendre le besoin métier afin de proposer une solution adaptée et durable.
+
+### Résoudre des problèmes concrets
+
+Mon parcours m'a habitué à analyser des situations parfois complexes, rechercher les informations nécessaires et construire des solutions pragmatiques en tenant compte des contraintes techniques et opérationnelles.
+
+### Automatiser intelligemment
+
+Je m'intéresse particulièrement à l'automatisation des tâches répétitives et à l'optimisation des processus. J'apprécie concevoir des systèmes permettant de réduire les actions manuelles, limiter les erreurs et améliorer le suivi des activités.
+
+### Vulgariser et accompagner
+
+Habitué à travailler avec des utilisateurs non techniques, je sais adapter mon discours afin de rendre compréhensibles des sujets parfois complexes. La qualité d'une solution dépend aussi de sa facilité d'utilisation et de son adoption par les personnes qui l'utilisent au quotidien.
+
+### Apprendre en continu
+
+Le secteur technologique évolue rapidement. Je développe actuellement mes compétences en SQL, Python, Business Intelligence et analyse de données afin d'élargir ma capacité à concevoir des solutions toujours plus pertinentes et utiles.
+
+---
+
 ## Ce que je construis aujourd'hui
 
 Je m'intéresse particulièrement aux sujets suivants :
