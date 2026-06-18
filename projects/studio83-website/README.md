@@ -1,7 +1,7 @@
-#🏋️ Studio83 Coaching — Site vitrine
+# 🏋️ Studio83 Coaching — Site vitrine
 
 
-##📌 Contexte
+## 📌 Contexte
 
 Studio83 est un studio de coaching sportif privé situé à La Farlède (Var), proposant un accompagnement personnalisé en coaching individuel, duo/trio et en ligne.
 
@@ -9,7 +9,7 @@ L’objectif du projet était de créer un site vitrine permettant de présenter
 
 ---
 
-##🎯 Problème
+## 🎯 Problème
 
 Avant la mise en place du site :
 
@@ -19,7 +19,7 @@ Avant la mise en place du site :
 - Besoin de centraliser l’information (offres, tarifs, contact)
 
 
-##🚀 Objectifs du projet
+## 🚀 Objectifs du projet
 
 - Créer une vitrine claire et professionnelle de l’activité
 - Présenter les services et offres de coaching
@@ -28,9 +28,9 @@ Avant la mise en place du site :
 - Réduire les échanges répétitifs
 
 
-##💡 Solution mise en place
+## 💡 Solution mise en place
 
-###Création d’un site vitrine structuré autour de plusieurs sections :
+### Création d’un site vitrine structuré autour de plusieurs sections :
 
 - Présentation du concept du studio (coaching privé, environnement)
 - Mise en avant des services proposés (coaching individuel, duo/trio, suivi en ligne)
@@ -42,15 +42,22 @@ Avant la mise en place du site :
 Le site est orienté conversion avec plusieurs points de contact (formulaire, appel, Réseaux sociaux...).
 
 
-##🧰 Stack utilisée
+## 🧰 Technologies utilisées
 
-- HTML / CSS (ou CMS / builder selon ton cas réel → à ajuster si besoin)
-- Intégration responsive
-- Optimisation du contenu et de la structure UX
+- HTML5
+- CSS3
+- JavaScript Vanilla
+- Google Fonts
+- Google Analytics (GA4)
+- Netlify Forms
+- Hébergement Netlify
+
+Le projet a été réalisé avec l'assistance d'outils d'IA utilisés comme aide à la conception, au prototypage et à l'implémentation des fonctionnalités.
 
 
-##🧑‍💻 Mon rôle
+## 🧑‍💻 Mon rôle
 
+- Analyse du besoin et définition des objectifs du projet
 - Structuration du site et de son contenu
 - Organisation des sections selon le parcours utilisateur
 - Intégration des éléments visuels et textuels
@@ -58,7 +65,7 @@ Le site est orienté conversion avec plusieurs points de contact (formulaire, ap
 - Adaptation du contenu aux besoins du client
 
 
-##📊 Résultats
+## 📊 Résultats
 
 - Site opérationnel et accessible en ligne
 - Meilleure structuration de l’offre de coaching
@@ -67,15 +74,28 @@ Le site est orienté conversion avec plusieurs points de contact (formulaire, ap
 - Amélioration de la visibilité de l’activité
 
 
-##📚 Ce que j’ai appris
+## 📚 Ce que j’ai appris
 
 - Structuration d’un site vitrine orienté utilisateur
 - Compréhension des enjeux de conversion (CTA, parcours utilisateur)
 - Traduction d’un besoin métier en structure web
 - Importance de la clarté dans la présentation d’une offre
 - Gestion d’un projet concret de communication digitale
+- Identification des points de friction dans le parcours prospect → client
 
 
-###🔗 Projet en ligne
+### 🔗 Projet en ligne
 
 👉 https://studio83coaching.fr
+
+---
+
+## 🔄 Évolutions prévues
+
+Le projet continue d'évoluer avec plusieurs améliorations envisagées :
+
+- Création d'une page dédiée à la souscription des offres
+- Intégration directe des liens de paiement Stripe
+- Simplification du parcours client avant l'inscription
+- Réduction des frictions liées à la création de compte sur les plateformes tierces
+- Simplification du processus de souscription afin de réduire les abandons lors du paiement
