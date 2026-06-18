@@ -48,40 +48,37 @@ Ces années m'ont appris à comprendre rapidement un besoin, identifier un probl
 
 ### Studio83 Coaching - Site vitrine
 
-Création d'un site web destiné à présenter l'activité d'un coach sportif indépendant, centraliser les informations essentielles et faciliter la prise de contact avec les prospects.
+Site web conçu pour un coach sportif afin de présenter son activité et centraliser les informations essentielles.
 
-**Objectif :**
-Réduire le temps passé à répondre aux demandes récurrentes tout en améliorant la visibilité de l'activité.
+👉 Présentation de l’activité
+👉 Réduction des demandes répétitives
+👉 Amélioration de la visibilité en ligne
+
+🔗 Voir le projet : projects/studio83-website
 
 ---
 
-### CRM & Financial Tracking System
+### CRM & Financial Tracking System (Google Sheets)
 
-Conception d'un système centralisé de suivi clients et financier intégrant :
+Système de suivi client et financier permettant de structurer les données, suivre les paiements et améliorer le suivi opérationnel.
 
-- Gestion des contrats
-- Suivi des paiements
-- Alertes d'échéances
-- Relances automatiques
-- Reporting financier
-- Synchronisation Stripe (en cours)
+👉 Suivi des contrats et paiements
+👉 Centralisation des données clients
+👉 Amélioration du suivi administratif
 
-**Objectif :**
-Automatiser le suivi administratif et financier afin de réduire les tâches manuelles et limiter les erreurs de gestion.
+🔗 Voir le projet : projects/crm-finance-automation
 
 ---
 
 ### Crypto Data Dashboard (en préparation)
 
-Projet personnel visant à collecter, stocker et analyser des données de marché liées au Bitcoin et à l'Ethereum.
+Projet personnel d’analyse de données de marché crypto (Bitcoin / Ethereum).
 
-Ce projet me permettra d'approfondir :
+👉 Collecte et structuration de données
+👉 Analyse de tendances
+👉 Visualisation de données (en cours)
 
-- SQL
-- Python
-- APIs
-- Data Analytics
-- Visualisation de données
+🔗 Voir le projet : projects/crypto-dashboard
 
 ---
 
