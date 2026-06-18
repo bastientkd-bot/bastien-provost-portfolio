@@ -124,7 +124,6 @@ Ce projet me permettra d'approfondir :
 - Structuration de données
 - Reporting
 - Automatisation de workflows
-- Make
 - Utilisation d'outils IA pour le prototypage et la création de solutions
 
 ### En cours d'apprentissage
